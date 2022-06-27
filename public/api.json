@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Sorrentinos de Centolla",
+      "price": "1100",
+      "category": "pastas",
+      "img": "../../assets/img/centolla.png",
+      "stock": 5,
+      "details": "Relleno de centolla fueguina precocida, cebolla de verdeo, queso reggeanito, queso crema y pimienta negra."
+    },
+    {
+      "id": 2,
+      "name": "Sorrentinos de Pollo",
+      "price": "800",
+      "category": "pastas",
+      "img": "https://i.imgur.com/NAyr6Ac.png",
+      "stock": 6,
+      "details": "Relleno de pollo fresco, cebolla rehogada, queso, crema de leche, sal y pimienta."
+    },
+    {
+      "id": 3,
+      "name": "Ravioles de Verdura",
+      "price": "700",
+      "category": "pastas",
+      "img": "../../assets/img/verdura.png",
+      "stock": 6,
+      "details": "Relleno de espinaca, cebolla rehogada, queso crema, queso rallado, ricota, pimienta y sal."
+    },
+    {
+      "id": 4,
+      "name": "Ravioles de Jamon y Queso",
+      "price": "750",
+      "category": "pastas",
+      "img": "../../assets/img/jyq.png",
+      "stock": 11,
+      "details": "Jamón, queso, cebolla de verdeo, pimienta y ricota a eleccion."
+    },
+    {
+      "id": 5,
+      "name": "Pizza de Centolla",
+      "price": "1300",
+      "category": "pizza",
+      "img": "../../assets/img/pizza.png",
+      "stock": 7,
+      "details": "Centolla fueguina precocida, cebolla de verdeo, queso y queso azul."
+    },
+    {
+      "id": 6,
+      "name": "Sorrentinos de salmon",
+      "price": "1500",
+      "category": "pasta",
+      "img": "../../assets/img/salmon.png",
+      "stock": 2,
+      "details": "Salmon fueguino cocido al horno, cebolla de verdeo, sal, pimienta."
+    },
+    {
+      "id": 7,
+      "name": "Dulce de membrillo",
+      "price": "200",
+      "category": "dulces",
+      "img": "../../assets/img/membrillo.png",
+      "stock": 10,
+      "details": "Dulce de membrillo artesanal."
+    },
+    {
+      "id": 8,
+      "name": "Pan casero",
+      "price": "300",
+      "category": "panificado",
+      "img": "../../assets/img/pan.png",
+      "stock": 15,
+      "details": "Pan casero artesanal."
+    }
+  ]
